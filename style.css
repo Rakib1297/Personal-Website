@@ -27,6 +27,29 @@ h1{
     background-repeat: no-repeat;
 }
 section{
-    height: 300px;
-    padding-left: 50px;
+    height: 350px;
+}
+.seccond-background{
+    background-image: url(images/biography-bg.png);
+}
+#center{
+    font-size: 40px;
+    text-align: center;
+}
+.work img{
+    width: 30%;
+    margin-left: 3%;
+}
+.last p{
+    font-size: 30px;
+    text-align: center;
+}
+#client{
+    font-size: 40px;
+}
+#bruce{
+    font-size: 25px;
+}
+#lorem{
+    font-size: 25px;
 }
