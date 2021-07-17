@@ -1,0 +1,32 @@
+body{
+    margin: 5%;
+}
+h1{
+      font-size: 30px;
+    color: rebeccapurple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    text-decoration: none;
+ background-color: rebeccapurple;
+ color: white;
+ border-radius: 5%;
+ padding: 10px 20px;
+}
+.width{
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+    width: 40%;
+}
+.width img{
+ width: 60%;
+}
+.first-background{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 300px;
+    padding-left: 50px;
+}
